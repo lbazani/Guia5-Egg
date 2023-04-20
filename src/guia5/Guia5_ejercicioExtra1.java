@@ -9,7 +9,7 @@ public class Guia5_ejercicioExtra1 {
     
     public static void main(String[] args) {
      Scanner sc = new Scanner (System.in);
-     int tamaño,suma,num;
+     int tamaño,suma,num,nombre;
         System.out.println("Ingrese el tamaño del vector");
         tamaño = sc.nextInt();
      int [] vector = new int [tamaño];
